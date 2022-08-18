@@ -1,0 +1,8 @@
+Day4 | #100DaysOfCode 
+
+1) iNotebook - done with Login and Signup linking with backend
+
+2) Added an alert component to log in and Sign up part.
+
+3) I used the context method to link components between the react app.
+
